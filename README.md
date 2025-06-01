@@ -1,6 +1,6 @@
 - 👋 Hi, I’m olakunle
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning full stack 
+- 👀 I am a web developer
+- 🌱 I am a full stack web developer (MERN)
 - 💞️ I’m looking to collaborate on building projects
 - 📫 How to reach me olakunle2309@gmail.com |whatsApp 07035551722 | olakunle ojelabi on facebook...
 - 😄 Pronouns: ...
